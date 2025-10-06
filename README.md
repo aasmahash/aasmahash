@@ -14,13 +14,13 @@ I’m a CS student with a growing passion for **Machine Learning, Data Science, 
 ## 🛠️ Tech Toolbox
 
 **Languages:**  
-Python · Java · JavaScript · TypeScript · C · C++ · SQL  
+Python · Java · JavaScript ·  SQL  
 
 **Frameworks & Libraries:**  
-PyTorch · FastAPI · React.js · NestJS · Node.js  
+React.js · Node.js · NextJS · Flask · Tailwind CSS · Java Spring Boot
 
 **Tools & Platforms:**  
-Azure · Docker · Splunk · MongoDB · GitHub · Figma  
+Framer · MongoDB · GitHub · Figma  
 
 ---
 
