@@ -1,18 +1,38 @@
-## 👋 Hi there, I'm Asma
+# 👋 Hi there, I'm Asma!
 
-Computer Science Student at York University 
+🎓 **Computer Science Student** at York University  
+🌱 Currently learning **Machine Learning** & **Backend Development**  
+📍 Toronto, ON  
+📫 Reach me at **asma001@my.yorku.ca**
 
-<!--
-**aasmahash/aasmahash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a **CS student** with a growing passion for **Machine Learning, Data Science, and Software Engineering**.  
+I love discovering how code and data can work together to create **intelligent, scalable, and meaningful applications**.
+
+I enjoy experimenting with **AI models**, working on creative full-stack projects, and constantly learning new tools and frameworks to improve my craft.  
+Always curious. Always learning. 🚀
+
+---
+
+## 🛠️ Tech Toolbox
+
+**Languages:**  
+Python · Java · JavaScript · TypeScript · C · C++ · SQL  
+
+**Frameworks & Libraries:**  
+PyTorch · FastAPI · React.js · NestJS · Node.js  
+
+**Tools & Platforms:**  
+Azure · Docker · Splunk · MongoDB · GitHub · Figma  
+
+---
+
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-hashar)  
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-website-cyan-rho.vercel.app)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asma001@my.yorku.ca)
+
