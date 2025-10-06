@@ -27,5 +27,5 @@ Framer · MongoDB · GitHub · Figma
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-hashar)  
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-website-cyan-rho.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asma001@my.yorku.ca)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=asma001@my.yorku.ca)
+[![Website](https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-website-cyan-rho.vercel.app)
