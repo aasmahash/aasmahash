@@ -10,9 +10,6 @@
 I’m a **CS student** with a growing passion for **Machine Learning, Data Science, and Software Engineering**.  
 I love discovering how code and data can work together to create **intelligent, scalable, and meaningful applications**.
 
-I enjoy experimenting with **AI models**, working on creative full-stack projects, and constantly learning new tools and frameworks to improve my craft.  
-Always curious. Always learning. 🚀
-
 ---
 
 ## 🛠️ Tech Toolbox
