@@ -2,7 +2,6 @@
 
 🎓 **Computer Science Student** at York University  
 🌱 Currently learning **Machine Learning** & **Backend Development**  
-📫 Reach me at **asma001@my.yorku.ca**
 
 ---
 
