@@ -3,7 +3,7 @@
 
 ## 🌟 About Me
 
-I’m a CS student with a growing passion for **Machine Learning, Software Engineering and Data Science**. I love discovering how code and data can work together to create **intelligent, scalable, and meaningful applications**.
+I’m a CS student with a growing passion for **Machine Learning, Software Engineering and Data Science**. I love discovering how code and data can work together to create **intelligent, impactful, and meaningful applications**.
 
 ---
 
