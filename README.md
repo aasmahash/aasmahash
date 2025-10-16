@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Asma!
 
-🎓 **Computer Science Student** at York University  
-🌱 Currently learning **Machine Learning** & **Backend Development**  
-
----
 
 ## 🌟 About Me
 
